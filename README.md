@@ -1,8 +1,6 @@
 
-[TOCM]
-
 #English
-##CRUD stock control
+##>CRUD stock control
 
 - This project focuses on storing, modifying, and deleting products from a store or business and storing it in a database, where the owner can perform these actions through this project.
 - This project was developed with Java, Maven, JDBC, and SQL.
